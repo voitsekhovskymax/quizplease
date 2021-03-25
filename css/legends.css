@@ -1,0 +1,603 @@
+@font-face {
+    font-family: "PFStampsPro";
+    src: url("../fonts/PF_Stamps_Pro.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Gilroy-Regular', Arial, sans-serif;
+    background-image: url("../images/texture.jpg");
+}
+
+#main {
+    margin-top: 90px;
+
+}
+
+.legends-hero {
+    overflow: hidden;
+    padding: 50px 0px;
+
+}
+
+.top-grid {
+    transform: scale(2.1);
+}
+
+
+.top-grid-neon {
+    position: absolute;
+    top: 80px;
+    left: calc(50% - 315px);
+}
+
+.quiz-yellow {
+    position: absolute;
+    top: 192px;
+    left: calc(50% - 90px);
+}
+
+.legends-info {
+    background-image: url("../images/metal-card.png");
+    background-size: auto;
+    background-position: center -75px;
+    background-repeat: no-repeat;
+    padding-top: 35px;
+}
+
+.legends-title {
+    font-family: 'Gilroy-Black', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 22px;
+
+    margin: 10px 0px;
+
+}
+
+.legends-subtitle {
+    font-size: 18px;
+    text-align: center;
+    padding: 0px 5px 25px;
+}
+
+.legends-search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#legends-form-city-wrap {
+    background-image: url(../images/name_btn.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 280px;
+    height: 73px;
+    display: block;
+    padding: 11px 0px;
+    background-size: cover;
+
+}
+
+#legends-form-city {
+    border: none;
+    background: none;
+    padding: 14px 25px;
+    width: 280px;
+    height: 48px;
+    text-transform: uppercase;
+    outline: none;
+    color: white;
+    transition: all 0.5s ease;
+    border-radius: 10px;
+    font-family: 'Gilroy-Medium', sans-serif;
+
+}
+
+#legends-form-command-name-wrap {
+    background-image: url(../images/name_btn.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 280px;
+    height: 73px;
+    display: block;
+    padding: 11px 0px;
+    background-size: cover;
+
+}
+
+#legends-form-command-name {
+    border: none;
+    background: none;
+    padding: 14px 25px;
+    width: 280px;
+    height: 48px;
+    text-transform: uppercase;
+    outline: none;
+    color: white;
+    transition: all 0.5s ease;
+    border-radius: 10px;
+    font-family: 'Gilroy-Medium', sans-serif;
+
+}
+
+#legends-form-city:focus,
+#legends-form-city:hover,
+#legends-form-command-name:focus,
+#legends-form-command-name:hover {
+    box-shadow: 0 0 10px #ff0072;
+
+}
+
+#legends-form-submit-wrap {
+    background-image: url(../images/search_btn.png);
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    padding: 15px 17px;
+    height: 93px;
+    width: 180px;
+    display: block;
+
+}
+
+#legends-form-submit {
+    border: none;
+    background: none;
+    padding: 15px 32px;
+    height: 56px;
+    width: 138px;
+    text-transform: uppercase;
+    outline: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    background: -webkit-linear-gradient(#ffffff, #ff98a5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Gilroy-Black', sans-serif;
+    text-shadow: 0 0 20px #ff0072;
+
+}
+
+#legends-form-submit:hover {
+    box-shadow: 0 0 10px #ff0072;
+
+}
+
+
+/* TEAM GRID */
+.team-card {
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.team-background {
+    background-image: url(../images/omand_grid.png);
+    background-repeat: no-repeat;
+    background-position: -55px 0;
+    position: relative;
+    height: 215px;
+    background-size: cover;
+    width: 290px;
+    margin: auto;
+}
+
+.team-img {
+    position: absolute;
+    top: 10%;
+    left: 7%;
+    width: 86%;
+    height: 77%;
+    object-fit: cover;
+
+}
+
+.team-city {
+    background-image: url(../images/city_2_btn.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 25px 35px;
+    width: 180px;
+    text-align: center;
+    word-break: break-word;
+    position: absolute;
+    bottom: -12px;
+    left: calc(50% - 90px);
+    font-family: 'Gilroy-Medium', sans-serif;
+    color: #6c6c6c;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+
+.team-name {
+    font-family: 'PFStampsPro', sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.no-team-photo {
+
+    background-image: url(../images/comand_no_photo.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: PFStampsPro, Arial, sans-serif;
+    text-align: center;
+    line-height: 28px;
+    color: #333;
+}
+
+.card-with-center-logo {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.team-bar {
+    max-width: initial;
+    height: 340px;
+    object-fit: contain;
+    width: 100%;
+    margin-bottom: 15px;
+    object-position: bottom;
+    overflow: visible;
+}
+
+#more-teams {
+    position: relative;
+    background: none;
+    border: none;
+    text-transform: uppercase;
+    font-family: 'Gilroy-Black', Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    width: auto;
+    height: 100px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    padding: 10px;
+    margin: auto;
+}
+
+#more-teams:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 23px);
+    background-image: url("../images/next.png");
+    background-position: center;
+    height: 46px;
+    width: 46px;
+
+}
+
+.legends-footer {
+    background-image: url("../images/footer_grid.png");
+    background-position: center top;
+    background-size: cover;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}
+
+
+.legends-footer .footer-inside-container {
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 60px;
+
+}
+
+
+.legends-footer .footer-inside-container .top-row a {
+    color: white;
+    text-decoration: underline;
+    font-family: Gilroy-Medium, Arial, sans-serif;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+
+.legends-footer .footer-info {
+
+    font-family: 'Gilroy-Black', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10px 0px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.legends-footer .footer-info a {
+    display: block;
+}
+
+.legends-footer .socials {
+    margin: 0 0 5px 0;
+}
+
+.legends-footer .socials a {
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.legends-terms {
+    color: white;
+    text-decoration: underline;
+}
+
+.commands-grid .col-md-6:before {
+    content: ' ';
+    display: block;
+    background-image: url(../images/neon_lamp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 30%;
+    width: 80%;
+    top: -30px;
+    left: 10%;
+    z-index: 1;
+    background-size: contain;
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1099px ) {
+    .legends-info {
+        padding: 70px;
+        margin-top: -44px;
+        width: 100%;
+    }
+
+    .commands-grid .col-md-6:nth-child(2n - 1):before {
+        content: ' ';
+        display: block;
+        background-image: url(../images/neon_lamp.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        height: 132px;
+        width: 350px;
+        overflow: visible;
+        top: -30px;
+        left: 0;
+        z-index: 1;
+        background-size: cover;
+
+    }
+
+    .commands-grid .col-md-6:nth-child(2n):before {
+        content: ' ';
+        display: block;
+        background-image: url(../images/neon_lamp.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        height: 132px;
+        width: 350px;
+        overflow: visible;
+        top: -30px;
+        right: 0;
+        z-index: 1;
+        background-size: cover;
+
+    }
+
+    .team-background {
+        height: 240px;
+        background-size: cover;
+
+    }
+
+    .team-img {
+        top: 10%;
+        left: 11%;
+        width: 80%;
+        height: 75%;
+        object-fit: cover;
+    }
+
+    .team-name {
+        font-size: 23px;
+         height: 88px;
+
+    }
+
+    .team-bar {
+        height: 340px;
+        object-fit: contain;
+        width: auto;
+        margin-bottom: 15px;
+        object-position: bottom;
+        overflow: visible;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+
+    .commands-grid .col-xl-4:nth-child(3n - 2):before {
+        content: ' ';
+        display: block;
+        background-image: url(../images/neon_lamp.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        height: 231px;
+        width: 611px;
+        overflow: visible;
+        top: -80px;
+        left: 0;
+        z-index: 1;
+    }
+
+    .commands-grid .col-xl-4:nth-child(3n):before {
+        content: ' ';
+        display: block;
+        background-image: url(../images/neon_lamp.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        position: absolute;
+        height: 231px;
+        width: 611px;
+        overflow: visible;
+        top: -80px;
+        right: 0;
+        z-index: 1;
+
+    }
+
+    .legends-footer .footer-inside-container .top-row {
+        padding-left: 17%;
+    }
+
+    .legends-footer .footer-logo-neon {
+        margin: auto;
+        display: block;
+        margin-top: -30px;
+
+    }
+
+    .legends-footer .footer-info {
+        font-size: 18px;
+        line-height: 28px;
+        margin: 20px 0px;
+    }
+
+    .legends-footer .footer-inside-container {
+        padding-top: 75px;
+    }
+
+    .legends-footer .socials {
+        margin: 20px 0px 5px;
+
+    }
+
+    .legends-footer {
+        background-position: center top;
+        background-size: auto;
+    }
+
+    .legends-subtitle {
+
+        padding: 0px 110px;
+    }
+
+    .legends-search-form {
+        flex-direction: row;
+    }
+
+    #legends-form-city-wrap {
+        background-image: url(../images/city_btn.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 190px;
+        height: 70px;
+        display: block;
+        padding: 7px 10px;
+
+    }
+
+    #legends-form-city {
+        border: none;
+        background: none;
+        padding: 17px 32px;
+        height: 52px;
+
+        width: 175px;
+        text-transform: uppercase;
+        outline: none;
+        color: white;
+        transition: all 0.5s ease;
+        border-radius: 10px;
+        font-family: 'Gilroy-Medium', sans-serif;
+
+    }
+
+    #legends-form-command-name-wrap {
+        background-image: url(../images/name_btn.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 350px;
+        height: 68px;
+        display: block;
+        padding: 7px 10px;
+
+    }
+
+    #legends-form-command-name {
+        border: none;
+        background: none;
+        padding: 17px 32px;
+        height: 52px;
+        width: 340px;
+        text-transform: uppercase;
+        outline: none;
+        color: white;
+        transition: all 0.5s ease;
+        border-radius: 10px;
+        font-family: 'Gilroy-Medium', sans-serif;
+
+    }
+
+    .legends-hero {
+        background-image: url("../images/top_grid_with_logo.png");
+        text-align: center;
+        position: relative;
+        height: 540px;
+        overflow: hidden;
+        background-position: top center;
+        background-repeat: no-repeat;
+        background-size: inherit;
+
+    }
+
+    .legends-info {
+        padding: 85px;
+    }
+
+    .legends-title {
+        font-size: 32px;
+    }
+
+    .legends-subtitle {
+        font-size: 24px;
+    }
+    .team-card {
+        margin-bottom: 30px;
+        margin-top: 50px;
+    }
+
+    .team-bar {
+        max-width: initial;
+        height: 340px;
+        object-fit: cover;
+        width: max-content;
+        margin-bottom: 15px;
+        object-position: top;
+        overflow: visible;
+    }
+    #more-teams {
+        font-size: 28px;
+    }
+}
