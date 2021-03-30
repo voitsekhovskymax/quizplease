@@ -20,20 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f9f977e-637e-4dd2-a382-513259a259fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/jquery-3.5.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/legends.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/legends.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1024px.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/1024px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bar_09.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bar_09.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/comand_no_photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/comand_no_photo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/metal-card.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/metal-card.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search_btn.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/search_btn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/top_grid_with_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/top_grid_with_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +82,7 @@
       <workItem from="1617034718904" duration="4017000" />
       <workItem from="1617043554149" duration="1887000" />
       <workItem from="1617091106140" duration="7089000" />
-      <workItem from="1617107094938" duration="734000" />
+      <workItem from="1617107094938" duration="1339000" />
     </task>
     <servers />
   </component>

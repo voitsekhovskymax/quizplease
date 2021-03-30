@@ -826,14 +826,20 @@ body {
         margin-bottom: -160px;
     }
 
+    .legends-footer{
+        background-size: auto !important;
 
+    }
+    .legends-footer .footer-inside-container {
+        max-width: 1000px;
+    }
     .top-grid {
         transform: scale(1.4);
     }
 
     .legends-footer:after {
 
-        right: 15%;
+        right: 24%;
     }
 
     .card-with-center-logo {
