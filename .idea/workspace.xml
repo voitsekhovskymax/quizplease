@@ -19,7 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f9f977e-637e-4dd2-a382-513259a259fd" name="Default Changelist" comment="" />
+    <list default="true" id="3f9f977e-637e-4dd2-a382-513259a259fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jquery-3.5.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/legends.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/legends.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1024px.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/1024px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bar_09.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bar_09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/comand_no_photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/comand_no_photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/metal-card.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/metal-card.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/search_btn.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/search_btn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/top_grid_with_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/top_grid_with_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +44,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../www/quizplease.voitsekhovsky.studio" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qA836xEdjJE6kpZB0ny6HAS3vr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,7 +55,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../familypress-site.local" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +83,19 @@
       <workItem from="1616570864499" duration="10426000" />
       <workItem from="1616677688368" duration="615000" />
       <workItem from="1616684490754" duration="291000" />
-      <workItem from="1616684981148" duration="4741000" />
+      <workItem from="1616684981148" duration="4860000" />
+      <workItem from="1616745287486" duration="1985000" />
+      <workItem from="1616747755375" duration="7806000" />
+      <workItem from="1616767769905" duration="1723000" />
+      <workItem from="1616769720915" duration="1987000" />
+      <workItem from="1616869755506" duration="676000" />
+      <workItem from="1616926239166" duration="108000" />
+      <workItem from="1617003959569" duration="2118000" />
+      <workItem from="1617023626065" duration="2407000" />
+      <workItem from="1617034718904" duration="4017000" />
+      <workItem from="1617043554149" duration="1887000" />
+      <workItem from="1617091106140" duration="7089000" />
+      <workItem from="1617107094938" duration="734000" />
     </task>
     <servers />
   </component>
@@ -81,13 +115,37 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="724" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616511064808">
+    <state x="552" y="178" key="#Deployment" timestamp="1617043646297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="724" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616511064808" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1616510860485">
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1617043646297" />
+    <state x="536" y="165" key="#SSH_Configurations" timestamp="1617043640497">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616510860485" />
+    <state x="536" y="165" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1617043640497" />
+    <state x="724" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617045559278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617045559278" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1616926348874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616926348874" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1616767850345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616767850345" />
+    <state x="668" y="208" width="583" height="624" key="find.popup" timestamp="1617104043463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="208" width="583" height="624" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617104043463" />
+    <state x="845" y="170" key="ftp.server.browser" timestamp="1617043645571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="170" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1617043645571" />
+    <state x="825" y="417" key="publish.login" timestamp="1616770377007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="417" key="publish.login/0.0.1920.1040@0.0.1920.1040" timestamp="1616770377007" />
   </component>
 </project>

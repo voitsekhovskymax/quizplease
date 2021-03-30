@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Area"
+AuthUserFile /home/voitse00/voitsekhovsky.studio/quizplease/.htpasswd
+Require valid-user

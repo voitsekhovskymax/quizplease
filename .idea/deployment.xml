@@ -44,7 +44,21 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="industrialbankgrenada.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="lac-sys.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mine">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -76,6 +90,13 @@
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="voitse00.ftp.tools">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/voitsekhovsky.studio/quizplease" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

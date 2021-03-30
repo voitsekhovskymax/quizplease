@@ -39,13 +39,14 @@
         <div class="container-navbar">
             <a href="/" class="logo">
                 <img src="./images/header-logo-white-2.png" alt="Квиз, плиз!" title="Квиз, плиз!" class="logo-img">
-                <img src="./images/logo-dark.svg" alt="Квиз, плиз!" title="Квиз, плиз!" class="logo-img-sticky">
+                <img src="./images/header-logo-white-2.png" alt="Квиз, плиз!" title="Квиз, плиз!"
+                     class="logo-img-sticky">
             </a>
             <div class="header-region">
                 <div class="city-drop-main">
                     <div class="city-drop-tog">
                         <img src="./images/pin-white.svg" alt="Квиз, плиз! в твоем городе!" class="location-icon-white">
-                        <img src="./images/pin-grey.svg" alt="Квиз, плиз! в твоем городе!" class="location-icon-gray">
+                        <img src="./images/pin-white.svg" alt="Квиз, плиз! в твоем городе!" class="location-icon-gray">
                         <div class="city-drop-text">Магадан</div>
                     </div>
                     <nav class="main-city-droplist">
@@ -326,7 +327,7 @@
             </div>
             <div class="hamburger-menu">
                 <img src="./images/burger-white.svg" alt="Меню" class="hamburger-menu-icon">
-                <img src="./images/burger-dark.svg" alt="Меню" class="hamburger-menu-icon-dark">
+                <img src="./images/burger-white.svg" alt="Меню" class="hamburger-menu-icon-dark">
             </div>
             <nav role="navigation" class="menu-navbar">
                 <div class="close">&times</div>
@@ -355,7 +356,7 @@
 <main id="main">
 
     <div class="legends-hero">
-                <img src="./images/top_grid_with_logo.png" class="top-grid">
+        <img src="./images/top_grid_with_logo.png" class="top-grid">
         <!--        <img src="./images/top-grid.png" alt="" class="top-grid">-->
         <!--        <img src="./images/quiz_yellow.png" alt="" class="quiz-yellow">-->
         <!--        <img src="./images/NEON%20EFFECT.png" alt="" class="top-grid-neon">-->
@@ -382,7 +383,7 @@
             </label>
             <label id="legends-form-submit-wrap">
 
-                <input type="submit" id="legends-form-submit" name="legends-form-submit" required value="Найти">
+                <button type="submit" id="legends-form-submit" name="legends-form-submit">
             </label>
         </form>
     </div>
@@ -451,12 +452,8 @@
                 <div class="team-card">
                     <div class="team-background">
                         <div class="no-team-photo">
-                            Фото <br>
-                            в проявке
                         </div>
-                        <div class="team-city">
-                            Москва
-                        </div>
+
                     </div>
                     <div class="team-name">
                         Свиноворот свиней
@@ -495,10 +492,14 @@
 
             </div>
             <div class="col-md-6 col-xl-4 ">
-                <img src="./images/bar_09.png" alt="Bar" class="team-bar">
+                <div class="bar-wrap">
+                    <img src="./images/bar_09.png" alt="Bar" class="team-bar">
+                </div>
             </div>
-            <div class="col-md-6 col-xl-4 d-block d-md-none d-xl-block">
-                <!-- Этот div нужен -->
+            <div class="col-md-6 col-xl-4 d-none d-md-none d-xl-block">
+                <div class="team-card">
+                    <!-- Этот div нужен рядом с div'ом "bar-wrap" -->
+                </div>
             </div>
             <div class="col-md-6 col-xl-4">
 
@@ -515,9 +516,9 @@
                 </div>
 
             </div>
-            <div class="col-md-6 col-xl-4">
+            <div class="col-md-6 col-xl-4 order-last order-xl-0">
                 <div class="card-with-center-logo">
-                    <img src="./images/1024px.png" alt="dark-logo">
+                    <img src="./images/light1024px.png" alt="dark-logo">
                 </div>
             </div>
             <div class="col-md-6 col-xl-4">
@@ -557,7 +558,7 @@
                 <div class="col-4 col-md-2">
                     <img src="./images/logo_neon.png" alt="" class="footer-logo-neon">
                 </div>
-                <div class="col-8">
+                <div class="col-8 col-md-9">
                     <div class="row">
                         <div class="col-12 col-md-6">
                             <div class="footer-info">
@@ -589,4 +590,8 @@
         </div>
     </div>
 </footer>
+<!-- SCRIPTS -->
+<script src="./libs/jquery-3.5.1.min.js"></script>
+<script src="./js/script.js"></script>
+<!-- END SCRIPTS-->
 </body>
