@@ -373,6 +373,7 @@ body {
     max-width: 285px;
     margin: auto;
     padding-top: 30px;
+    position: relative;
 
 }
 
@@ -508,7 +509,7 @@ body {
         background: none;
         padding: 17px 32px;
         height: 52px;
-    margin-left: 0px;
+        margin-left: 0px;
         width: 175px;
         text-transform: uppercase;
         outline: none;
@@ -747,7 +748,10 @@ body {
 
     .legends-footer .footer-inside-container {
         padding-top: 75px;
+        max-width: 1000px;
+
     }
+
 
     .legends-footer .socials {
         margin: 20px 0px 5px;
@@ -799,14 +803,14 @@ body {
         padding-right: 5px;
     }
 
-    .legends-footer:after {
+    .footer-inside-container:after {
         content: '';
         background-image: url(../images/chuck.png);
         width: 99px;
         height: 109px;
         position: absolute;
-        bottom: 0;
-        right: 13%;
+        bottom: -20px;
+        right: -16px;
         z-index: -1;
     }
 
@@ -826,13 +830,15 @@ body {
         margin-bottom: -160px;
     }
 
-    .legends-footer{
+    .legends-footer {
         background-size: auto !important;
 
     }
+
     .legends-footer .footer-inside-container {
         max-width: 1000px;
     }
+
     .top-grid {
         transform: scale(1.4);
     }
