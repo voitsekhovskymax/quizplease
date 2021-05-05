@@ -21,12 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3f9f977e-637e-4dd2-a382-513259a259fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bar_09.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bar_09.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/footer_grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/footer_grid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/grid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kirpich.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/kirpich.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/top-grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/top-grid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/top_grid_with_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/top_grid_with_logo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +89,8 @@
       <workItem from="1619773264711" duration="19732000" />
       <workItem from="1620022280906" duration="1636000" />
       <workItem from="1620039128521" duration="1684000" />
-      <workItem from="1620194882868" duration="2002000" />
+      <workItem from="1620194882868" duration="2378000" />
+      <workItem from="1620207411480" duration="1397000" />
     </task>
     <servers />
   </component>
@@ -135,10 +130,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616767850345" />
-    <state x="668" y="207" width="583" height="624" key="find.popup" timestamp="1620040567291">
+    <state x="668" y="207" width="583" height="624" key="find.popup" timestamp="1620208203847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="207" width="583" height="624" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620040567291" />
+    <state x="668" y="207" width="583" height="624" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620208203847" />
     <state x="845" y="170" key="ftp.server.browser" timestamp="1617043645571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
