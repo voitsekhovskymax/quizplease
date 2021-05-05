@@ -21,6 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="3f9f977e-637e-4dd2-a382-513259a259fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bar_09.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bar_09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/footer_grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/footer_grid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/grid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kirpich.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/kirpich.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/top-grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/top-grid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/top_grid_with_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/top_grid_with_logo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +53,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../familypress-site.local" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../click-point.co.il" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -82,7 +88,14 @@
       <workItem from="1617034718904" duration="4017000" />
       <workItem from="1617043554149" duration="1887000" />
       <workItem from="1617091106140" duration="7089000" />
-      <workItem from="1617107094938" duration="2009000" />
+      <workItem from="1617107094938" duration="2603000" />
+      <workItem from="1617112421505" duration="2275000" />
+      <workItem from="1617115860468" duration="783000" />
+      <workItem from="1617261313873" duration="114000" />
+      <workItem from="1619773264711" duration="19732000" />
+      <workItem from="1620022280906" duration="1636000" />
+      <workItem from="1620039128521" duration="1684000" />
+      <workItem from="1620194882868" duration="2002000" />
     </task>
     <servers />
   </component>
@@ -114,18 +127,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="724" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617045559278" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1616926348874">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1620030326505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616926348874" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620030326505" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1616767850345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616767850345" />
-    <state x="668" y="207" width="583" height="624" key="find.popup" timestamp="1617108604082">
+    <state x="668" y="207" width="583" height="624" key="find.popup" timestamp="1620040567291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="207" width="583" height="624" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617108604082" />
+    <state x="668" y="207" width="583" height="624" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620040567291" />
     <state x="845" y="170" key="ftp.server.browser" timestamp="1617043645571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -134,5 +147,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="825" y="417" key="publish.login/0.0.1920.1040@0.0.1920.1040" timestamp="1616770377007" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1619776148731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619776148731" />
+    <state x="778" y="389" key="webDeployment.PermissionsDialog" timestamp="1617112932300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="389" key="webDeployment.PermissionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617112932300" />
   </component>
 </project>
